@@ -1,3 +1,6 @@
 This is an example program for connecting to a server login.
 
 if you want test, first you should run service_test.py, then run main.py, and input random number for ID and PWD, then login view will jump to the template view, and the program also have some accessional function to make it more convenient
+
+
+pyqt login
